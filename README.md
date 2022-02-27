@@ -47,8 +47,8 @@ Courses | Duration | Effort | Status | Certificate | School
 [Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms](https://www.edx.org/course/introduction-to-java-programming-ii-object-oriented-programming?index=product&queryID=6f07d909f496dc9b7578e31213b68c6c&position=2) | 6 weeks | 6 hours/week | &#9745; | [Certificate](https://courses.edx.org/certificates/e15455192b864b91931924aae89ac6c7) | Georgia Tech
 [Introduction to Object-Oriented Programming with Java III: Exceptions, Data Structures, Recursion, and GUIs](https://www.edx.org/course/introduction-to-java-programming-iii-interfaces-polymorphism-and-complexity?index=product&queryID=de534cbb2a0361ab49b7bec41c344d99&position=2) | 6 weeks | 6 hours/week | &#9745; | [Certificate](https://courses.edx.org/certificates/944157f38fcc4180aa6a200f209325fd) | Georgia Tech
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | &#9745; | [Certificate](https://coursera.org/share/66af6d60ceacaba711ac93c055e3a1be) | University of Alberta
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | &#9745; | [Certificate](https://coursera.org/share/90d734ea433cb9395f92a0e2b0e5bd95) | University of Alberta
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | &#9745; | [Certificate](https://coursera.org/share/b7cd5ceaab1c0c471c3fc71375fab1f6) | University of Alberta
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | &#9745; | [Certificate](https://coursera.org/share/7725012731fc1960e96e3fd57596bbb7) | University of Alberta
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | &#9745; | [Certificate](https://coursera.org/share/cbbfe55ee16023169d622e7011ba8723) | University of Alberta
 [Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | 5 hours/week | &#9744; | [Certificate]() | University of Alberta
 
 
