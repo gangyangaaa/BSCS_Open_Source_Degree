@@ -1,4 +1,4 @@
-# My Open Source Bachelor Computer Science Degree (In Progress)
+# My Open-Source CS Degree (in progress)
 
 # Summary
 
