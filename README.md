@@ -48,7 +48,7 @@ Courses | Duration | Effort | Status | Certificate | School
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | ✅ | [Certificate](https://coursera.org/share/66af6d60ceacaba711ac93c055e3a1be) | University of Alberta
 [Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | ✅ | [Certificate](https://coursera.org/share/7725012731fc1960e96e3fd57596bbb7) | University of Alberta
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | ✅ | [Certificate](https://coursera.org/share/cbbfe55ee16023169d622e7011ba8723) | University of Alberta
-[Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | 5 hours/week | ⬜️ | [Certificate]() | University of Alberta
+[Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | 5 hours/week | 🅿️ | [Certificate]() | University of Alberta
 
 
 ### CS Tools
@@ -61,7 +61,7 @@ Courses | Duration | Effort | Status | Certificate | School
 
 Courses | Duration | Effort | Status | School
 :-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | ⬜️ | MIT
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | 🅿️ | MIT
 
 ### Core systems
 
@@ -85,7 +85,7 @@ Courses | Duration | Effort | Status | Certificate | School
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 7-13 hours/week | ✅ | [Certificate](https://coursera.org/share/816a4b216f1dbf5818b88b2065efb436) | Hebrew University of Jerusalem
 [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | ✅ | [Certificate](https://coursera.org/share/f11370adc97b56f6b3112fdfac18dc11) | Hebrew University of Jerusalem
-[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6-10 hours/week | ⬜️ | Self-learn | University of Wisconsin-Madison
+[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6-10 hours/week | 🅿️ | Self-learn | University of Wisconsin-Madison
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ([Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)) | 8 weeks | 4-12 hours/week | ⬜️ | Self-learn | University of Massachusetts Amherst
 
 
@@ -110,7 +110,7 @@ Courses | Duration | Effort | Status | Certificate | School
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | 5 weeks | 4-8 hours/week | ✅ | [Certificate](https://coursera.org/share/603532070cbf276f593a83f384dd471c) | UCSD
 [Data Structures](https://www.coursera.org/learn/data-structures) | 4 weeks | 5-10 hours/week | ✅ | [Certificate](https://coursera.org/share/2de10e766c48771a67c4c2cee26c727d) | UCSD
 [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/556c0a363c198be7c24fd11289eaed1f) | UCSD
-[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
+[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | 🅿️ | [Certificate]() | UCSD
 [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
 [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
 
@@ -253,12 +253,13 @@ Courses | Duration | Effort | Status | Certificate | School
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | ⬜️ | [Certificate]() | UCSD
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | ⬜️ | [Certificate]() | UCSD
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | ⬜️ | [Certificate]() | University of Illinois
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | ⬜️ | [Certificate]() | Johns Hopkins University
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | 🅿️ | [Certificate]() | Johns Hopkins University
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | ⬜️ | [Certificate]() | EPFL
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | ⬜️ | [Certificate]() | Michigan State
-[Algorithms for Battery Management Systems Specialization (Specialization)](https://www.coursera.org/specializations/algorithms-for-battery-management-systems) | 6 months | 5 hours/week | ⬜️ | [Certificate]() | University of Colorado
+[Algorithms for Battery Management Systems Specialization (Specialization)](https://www.coursera.org/specializations/algorithms-for-battery-management-systems) | 6 months | 5 hours/week | 🅿️ | [Certificate]() | University of Colorado
 
 
 Note: 
 - ✅ Done 
-- ⬜️ In progress  
+- 🅿️ In progress
+- ⬜️ Not started  
