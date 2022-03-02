@@ -1,8 +1,10 @@
-# My Open Source Bachelor Computer Science Degree 
+# My Open Source Bachelor Computer Science Degree (In Progress)
 
 # Summary
 
-This curriculum follows [Open Source Society University CS Degree](https://github.com/ossu/computer-science/blob/master/README.md).
+This curriculum mainly follows
+
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 # Curriculum
 - [Intro CS](#intro-cs)
@@ -36,9 +38,6 @@ Courses | Duration | Effort | Status | Certificate | School
 `object-oriented design`
 `static typing`
 `dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
 `and more`
 
 Courses | Duration | Effort | Status | Certificate | School
@@ -88,3 +87,173 @@ Courses | Duration | Effort | Status | Certificate | School
 [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | &#9745; | [Certificate](https://coursera.org/share/f11370adc97b56f6b3112fdfac18dc11) | Hebrew University of Jerusalem
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6-10 hours/week | &#9744; | Self-learn | University of Wisconsin-Madison
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ([Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)) | 8 weeks | 4-12 hours/week | &#9744; | Self-learn | University of Massachusetts Amherst
+
+
+### Core theory
+
+**Topics covered**:
+`divide and conquer`
+`sorting and searching`
+`randomized algorithms`
+`graph search`
+`shortest paths`
+`data structures`
+`greedy algorithms`
+`minimum spanning trees`
+`dynamic programming`
+`NP-completeness`
+`and more`
+
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | 5 weeks | 4-8 hours/week | &#9745; | [Certificate](https://coursera.org/share/603532070cbf276f593a83f384dd471c) | UCSD
+[Data Structures](https://www.coursera.org/learn/data-structures) | 4 weeks | 5-10 hours/week | &#9745; | [Certificate](https://coursera.org/share/2de10e766c48771a67c4c2cee26c727d) | UCSD
+[Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | 5 weeks | 3-4 hours/week | &#9745; | [Certificate](https://coursera.org/share/556c0a363c198be7c24fd11289eaed1f) | UCSD
+[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | &#9744; | [Certificate]() | UCSD
+[Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | 5 weeks | 3-4 hours/week | &#9744; | [Certificate]() | UCSD
+[Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | 5 weeks | 3-4 hours/week | &#9744; | [Certificate]() | UCSD
+
+
+### Core Security
+**Topics covered**
+`Confidentiality, Integrity, Availability`
+`Secure Design`
+`Defensive Programming`
+`Threats and Attacks`
+`Network Security`
+`Cryptography`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | &#9744; | [Certificate]() | University of London
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | &#9744; | [Certificate]() | University of London
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | &#9744; | [Certificate]() | University of London
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | &#9744; | [Certificate]() | University of London
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | &#9744; | [Certificate]() | University of London
+
+### Core applications
+
+**Topics covered**:
+`Agile methodology`
+`REST`
+`software specifications`
+`refactoring`
+`relational databases`
+`transaction processing`
+`data modeling`
+`neural networks`
+`supervised learning`
+`unsupervised learning`
+`OpenGL`
+`raytracing`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | &#9744; | [Certificate]() | Stanford
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | &#9744; | [Certificate]() | Stanford
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | &#9744; | [Certificate]() | Stanford
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | &#9745; | [Certificate](https://coursera.org/share/7bc748c52a645e861c6bb2f264bf8773) | Stanford
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | &#9744; | [Certificate]() | UCSD
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | 8-10 hours/week | &#9744; | [Certificate]() | University of British Colombia
+
+
+### Core Ethics
+
+**Topics covered**:
+`Social Context`
+`Analytical Tools`
+`Professional Ethics`
+`Intellectual Property`
+`Privacy and Civil Liberties`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | &#9744; | [Certificate]() | Eindhoven University of Technology
+[Intellectual Property Law in Digital Age](https://www.coursera.org/learn/intellectual-property-law-in-digital-age)| 4 weeks | 2 hours/week | &#9744; | [Certificate]() | Saint Petersburg State University
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | &#9744; | [Certificate]() | Northeastern University
+
+## Advanced CS (electives)
+**Topics covered**:
+`debugging theory and practice`
+`goal-oriented programming`
+`parallel computing`
+`object-oriented analysis and design`
+`UML`
+`large-scale software architecture and design`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | &#9744; | [Certificate]() | EPFL
+[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | &#9744; | [Certificate]() | Stanford
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | &#9744; | Self-learn | University of Pennsylvania
+[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)| 12 weeks | - | &#9744; | Self-learn | -
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | &#9744; | [Certificate]() | Udacity
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | &#9744; | [Certificate]() | Udacity
+
+
+### Advanced systems
+
+**Topics covered**:
+`digital signaling`
+`combinational logic`
+`CMOS technologies`
+`sequential logic`
+`finite state machines`
+`processor instruction sets`
+`caches`
+`pipelining`
+`virtualization`
+`parallel processing`
+`virtual memory`
+`synchronization primitives`
+`system call interface`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) | 10 weeks | 6 hours/week | &#9744; | Self-learn | MIT
+[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | &#9744; | Self-learn | MIT
+[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | &#9744; | Self-learn | MIT
+
+### Advanced theory
+
+**Topics covered**:
+`formal languages`
+`Turing machines`
+`computability`
+`event-driven concurrency`
+`automata`
+`distributed shared memory`
+`consensus algorithms`
+`state machine replication`
+`computational geometry theory`
+`propositional logic`
+`relational logic`
+`Herbrand logic`
+`game trees`
+`and more`
+
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN)) | 8 weeks | 10 hours/week | &#9744; | Self-learn | -
+[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | &#9744; | [Certificate]() | Tsinghua Univeristy
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | &#9744; | [Certificate]() | Stanford
+
+## Final project (elective)
+Courses | Duration | Effort | Status | Certificate | School
+:-- | :--: | :--: | :--: | :--: | :--:
+[Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 6 hours/week | &#9744; | [Certificate]() | University of Helsinki
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | &#9744; | [Certificate]() | Northwestern
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | &#9744; | [Certificate]() | University of Illinois
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | &#9744; | [Certificate]() | UCSD
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | &#9744; | [Certificate]() | UCSD
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | &#9744; | [Certificate]() | University of Illinois
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | &#9744; | [Certificate]() | Johns Hopkins University
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | &#9744; | [Certificate]() | EPFL
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | &#9744; | [Certificate]() | Michigan State
+[Algorithms for Battery Management Systems Specialization (Specialization)](https://www.coursera.org/specializations/algorithms-for-battery-management-systems) | 6 months | 5 hours/week | &#9744; | [Certificate]() | University of Colorado
