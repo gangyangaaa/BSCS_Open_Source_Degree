@@ -48,7 +48,7 @@ Courses | Duration | Effort | Status | Certificate | School
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | ✅ | [Certificate](https://coursera.org/share/66af6d60ceacaba711ac93c055e3a1be) | University of Alberta
 [Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | ✅ | [Certificate](https://coursera.org/share/7725012731fc1960e96e3fd57596bbb7) | University of Alberta
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 5 hours/week | ✅ | [Certificate](https://coursera.org/share/cbbfe55ee16023169d622e7011ba8723) | University of Alberta
-[Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | 5 hours/week | 🅿️ | [Certificate]() | University of Alberta
+[Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | 5 hours/week | ✅ | [Certificate](https://coursera.org/share/7d7eec21682e61fdca2959e3206575be) | University of Alberta
 
 
 ### CS Tools
@@ -110,7 +110,7 @@ Courses | Duration | Effort | Status | Certificate | School
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | 5 weeks | 4-8 hours/week | ✅ | [Certificate](https://coursera.org/share/603532070cbf276f593a83f384dd471c) | UCSD
 [Data Structures](https://www.coursera.org/learn/data-structures) | 4 weeks | 5-10 hours/week | ✅ | [Certificate](https://coursera.org/share/2de10e766c48771a67c4c2cee26c727d) | UCSD
 [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/556c0a363c198be7c24fd11289eaed1f) | UCSD
-[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | 🅿️ | [Certificate]() | UCSD
+[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/5b073ed87f41e42c7c7f1c4073624950) | UCSD
 [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
 [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
 
@@ -127,7 +127,7 @@ Courses | Duration | Effort | Status | Certificate | School
 
 Courses | Duration | Effort | Status | Certificate | School
 :-- | :--: | :--: | :--: | :--: | :--:
-[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | ⬜️ | [Certificate]() | University of London
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | 🅿️ | [Certificate]() | University of London
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | ⬜️ | [Certificate]() | University of London
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | ⬜️ | [Certificate]() | University of London
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | ⬜️ | [Certificate]() | University of London
