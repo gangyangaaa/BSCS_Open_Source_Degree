@@ -111,8 +111,8 @@ Courses | Duration | Effort | Status | Certificate | School
 [Data Structures](https://www.coursera.org/learn/data-structures) | 4 weeks | 5-10 hours/week | ✅ | [Certificate](https://coursera.org/share/2de10e766c48771a67c4c2cee26c727d) | UCSD
 [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/556c0a363c198be7c24fd11289eaed1f) | UCSD
 [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/5b073ed87f41e42c7c7f1c4073624950) | UCSD
-[Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
-[Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | 5 weeks | 3-4 hours/week | ⬜️ | [Certificate]() | UCSD
+[Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/998f7e5a7b5a6cdff32542855ac61b9d) | UCSD
+[Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | 5 weeks | 3-4 hours/week | ✅ | [Certificate](https://coursera.org/share/c042ed29dc74be4576a1e2f8d1341816) | UCSD
 
 
 ### Core Security
@@ -253,10 +253,10 @@ Courses | Duration | Effort | Status | Certificate | School
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | ⬜️ | [Certificate]() | UCSD
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | ⬜️ | [Certificate]() | UCSD
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | ⬜️ | [Certificate]() | University of Illinois
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | 🅿️ | [Certificate]() | Johns Hopkins University
+[Data Science: Foundations using R (Specialization)](https://www.coursera.org/specializations/data-science-foundations-r) | 20 weeks | 1-6 hours/week | ✅ | [Certificate](https://coursera.org/share/32128385874b5ba448757919423ffcd6) | Johns Hopkins University
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | ⬜️ | [Certificate]() | EPFL
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | ⬜️ | [Certificate]() | Michigan State
-[Algorithms for Battery Management Systems Specialization (Specialization)](https://www.coursera.org/specializations/algorithms-for-battery-management-systems) | 6 months | 5 hours/week | 🅿️ | [Certificate]() | University of Colorado
+[Algorithms for Battery Management Systems Specialization (Specialization)](https://www.coursera.org/specializations/algorithms-for-battery-management-systems) | 6 months | 5 hours/week | ✅ | [Certificate](https://coursera.org/share/e4040094c436d24235b52d4ed677fc6f) | University of Colorado
 
 
 Note: 
